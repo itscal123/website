@@ -23,7 +23,7 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong>I'M</strong>
+              <strong>Know what I know</strong>
             </h1>
             <Aboutcard />
           </Col>
